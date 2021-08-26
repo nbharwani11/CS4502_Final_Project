@@ -4,6 +4,7 @@ For Part 1 you will create a set of slides that you will present in class and th
 2. Team members:
 	- Naureen Bharwani
 	- Cody Thornton
+	- Sean Mulligan
 
 3. Description: 2-3 sentence paragraph project description - what interesting questions do
 you intend to answer?
