@@ -9,15 +9,37 @@ For Part 1 you will create a set of slides that you will present in class and th
 
 3. Description: 2-3 one sentence project descriptions - what interesting questions do
 you intend to answer?
-	- 
-	- 
-	- 
+	Crime Related Questions:
+	- Has Denver’s Star Program had any effect on the data?
+	- Covid has increased crime nationwide.  Within Denver, has this increase in crime changed in any way from previous crime data patterns?  For example are their changes in the relational attribute/object patterns in the types of crimes, their locations, their time of occurrence
+	- Does living in a specific neighborhood that has the most crime affect life expectancy? Does this correlate to ethnicity/race?
+	
+	Hate Crime Related Questions:
+	- Which kinds of hate crimes are most and least common?
+	- What group(race/ethnicity/religion/etc.) receive the most hate crimes against them? Which receives the least?
+	- Does a specific year/month/location correlate with the amounts of hate crimes being reported?
+
+	Health Related Questions:
+	- Does Life Expectancy have positive or negative correlation with crime and/or a specific neighborhood?
+	- Which neighborhoods have the most obese population? Which neighborhoods have the least obese population?
+	- How does the obesity of a neighborhood correlate to the crime being reported? Is there more crime or less crime? Does this increase the hate crime being reported? What ethnicity/race is most common in these neighborhoods?
+
 
 4. Prior Work: What prior work has been done on your idea
 	- The City of Denver has put together this compendium of datasets - https://www.denvergov.org/opendata/
 	- Searched for previous studies on health and crime in Denver
-		- PUT LINKS HERE
-		- RESULTS? IF ANY
+
+	Crime Related Datasets:
+	1. Colorado Crime Statistics - https://coloradocrimestats.state.co.us/tops/
+	2. Denver Crime Data - https://www.kaggle.com/paultimothymooney/denver-crime-data/version/25
+	3. Previous Student Analysis of crime in Denver - https://data.world/stoltzmaniac/raw-crime-data-for-denver-colorado
+	4. Specific Crime Data - https://data.world/denver/marijuana-related-crime
+	5. Previous Student Analysis of crime in Denver - https://github.com/the4thparadigm/denvercrime
+
+
+	Health Related Datasets:
+	1. Global Life Expectancy - https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
 
 5. Datasets:
 	a. List of datasets to use:
@@ -48,21 +70,28 @@ you intend to answer?
 
 
 	c. Whether you'll have it downloaded (on who’s machine)
-		Each of the datasets will be downloaded as a CSV file on one of our local machines and then will be uploaded to our shared repository on GitHub to be accessable to all teammates.
+		- We will utilize Github for version control.  As such, all datasets will be simultaneously available to all team members via a shared repository.  To maintain the repository and prevent merge conflicts, we will utilize the Kanban style app Trello for project management.  Our base file type will be comma separated value(CSV) files.
  
-6. Proposed work: what do you need to do?
-	a. Data cleaning:
-		- Review all datasets for simple data comparison to create sets of sub-domains(attribute values).  
-	b. Data preprocessing:
-		- Review all the datasets to perform all preprocessing dataset techniques including: ........
-	c. Data integration:
-		- Review all the datasets to perform data integration techniques including: ..........	
+6. Proposed work/Data Preprocessing: what do you need to do?
+	1. Data Cleaning:
+	- Review all datasets for simple data comparison to create sets of sub-domains(attribute values).
+	- Verify data quality (accuracy, completeness, consistency, timeliness, believability, interpretability)
+	- Data cleaning routines work to “clean” the data by filling in missing values, smoothing noisy data, identifying or removing outliers, and resolving inconsistencies.
+	- Note: As the datasets themselves appear to be of high quality, much of the cleaning effort will be done in preparation for the integration phase.
+
+	2. Data integration:
+	- Entity Identification Problem
+	- Redundancy and Correlation Analysis
+	- Tuple Duplication
+	- Data Reduction
 
 7. List of tool(s) you intend to use
 	a. NumPy
 	b. Panadas
-	c. 
-	d. 
+	c. matplotlib
+	d. GitHub
+	e. Trello
+	f. Tableau
 
 8. Evaluation: How you can evaluate your results
 	- 
