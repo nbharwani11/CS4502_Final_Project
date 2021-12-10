@@ -3,16 +3,10 @@
 
 #### Project Description:
 
-We sought to study correlations between violent crime and the demographic characteristics of Denver, CO. Our initial literature survey suggested that, in general, places with
-higher levels of violent crime have poorer health outcomes, higher levels of poverty, lower rates of higher educational attainment, and more racial diversity. Based on this 
-research, we sought to discover if certain neighborhoods in Denver experienced higher levels of violent crime than others.
-Identifying the connections between violent crimes and demographics is important because it can provide insight on the true costs of violent crime, and how to potentially prevent
-it in the first place.	Like any complex social phenomenon,  violent crimes are not the result of a single cause.  Violent crimes are the aggregate result of well studied social
-issues including, for example,  poverty and education.  By examining the violent crime centroids, at both a neighborhood and regional level, we hope to see how higher levels of 
-poverty, or conversely lower levels of education, affect violent crime rates.  Moreover, violent crimes have costs beyond the crimes themselves, including impacts to health.  By
-studying the violent crime centroids, again at a neighborhood and regional level, we hope to see how violent crime may impact rates of obesity and the average life expectancy.
-Interwoven between these layers are additional societal constructs and forces that serve as both catalysts and inhibitors to themselves and all other variables, such as income,
-race, religion, etc.  By identifying trends in the primary crime and demographic data,  resources can be better targeted to communities in need.
+- We sought to study correlations between violent crime and the demographic characteristics of Denver, CO. Our initial literature survey suggested that, in general, places with higher levels of violent crime have poorer health outcomes, higher levels of poverty, lower rates of higher educational attainment, and more racial diversity. Based on this research, we sought to discover if certain neighborhoods in Denver experienced higher levels of violent crime than others.
+- Identifying the connections between violent crimes and demographics is important because it can provide insight on the true costs of violent crime, and how to potentially prevent it in the first place.	Like any complex social phenomenon, violent crimes are not the result of a single cause. Violent crimes are the aggregate result of well studied social issues including, for example, poverty and education.
+- By examining the violent crime centroids, at both a neighborhood and regional level, we hope to see how higher levels of 
+poverty, or conversely lower levels of education, affect violent crime rates. Moreover, violent crimes have costs beyond the crimes themselves, including impacts to health. By studying the violent crime centroids, again at a neighborhood and regional level, we hope to see how violent crime may impact rates of obesity and the average life expectancy. Interwoven between these layers are additional societal constructs and forces that serve as both catalysts and inhibitors to themselves and all other variables, such as income, race, religion, etc.  By identifying trends in the primary crime and demographic data, resources can be better targeted to communities in need.
 
 
 Project Summary of Questions sought and answers:
