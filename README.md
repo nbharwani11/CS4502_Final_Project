@@ -1,7 +1,7 @@
 # Crime and Demographics in the Mile High City
-#### Team Members: Naureen Bharwani, Sean Mulligan, Cody Thornton
+### Team Members: Naureen Bharwani, Sean Mulligan, Cody Thornton
 
-#### Project Description:
+### Project Description:
 
 - We sought to study correlations between violent crime and the demographic characteristics of Denver, CO. Our initial literature survey suggested that, in general, places with higher levels of violent crime have poorer health outcomes, higher levels of poverty, lower rates of higher educational attainment, and more racial diversity. Based on this research, we sought to discover if certain neighborhoods in Denver experienced higher levels of violent crime than others.
 - Identifying the connections between violent crimes and demographics is important because it can provide insight on the true costs of violent crime, and how to potentially prevent it in the first place.	Like any complex social phenomenon, violent crimes are not the result of a single cause. Violent crimes are the aggregate result of well studied social issues including, for example, poverty and education.
