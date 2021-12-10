@@ -14,13 +14,13 @@ poverty, or conversely lower levels of education, affect violent crime rates. Mo
 
 - Based on this research, we sought to discover if certain neighborhoods in Denver experienced higher levels of violent crime than others. If such neighborhoods existed, we also planned to seeks answers to the following questions about these neighborhoods:
     - Do these areas have poorer health outcomes?
-            - 2.8 years lower life expectancy and 7.1% higher obesity rates than state averages
+        - 2.8 years lower life expectancy and 7.1% higher obesity rates than state averages
     - Do these areas have higher rates of poverty?
-            - 7% higher rates of poverty than the state average
+        - 7% higher rates of poverty than the state average
     - Do these areas have lower levels of education?
-            - 15.2% lower attainment of bachelors degrees
-   -  Do these areas have larger minority populations?  
-            - 44.4% more diverse than the state average 
+        - 15.2% lower attainment of bachelors degrees
+    - Do these areas have larger minority populations?  
+        - 44.4% more diverse than the state average 
             
             
 ### Project Application:
