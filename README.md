@@ -42,3 +42,11 @@ poverty, or conversely lower levels of education, affect violent crime rates. Mo
 - dataWarehouseCounts.ipynb - Counts of crimes for creation of data warehouse
 - kMeans.ipynb - k-Means clustering
 - naiveBayes.ipynb - Bayesian analysis
+
+
+### Video Demonstration
+
+
+
+### Project Final Report:
+https://docs.google.com/document/d/1SHTnAE6S7NXn6O778RZhF90WfO5t8xHI/edit?usp=sharing&ouid=101473414920041359955&rtpof=true&sd=true
