@@ -49,4 +49,4 @@ poverty, or conversely lower levels of education, affect violent crime rates. Mo
 https://drive.google.com/file/d/1GdAsgm7XOqJwH0zgWwIDRRbYM3duRbng/view?usp=sharing
 
 ### Project Final Report:
-- Milestones/01_CrimeAndDemographicsInTheMileHighCity_Part4.pdf
+https://github.com/nbharwani11/CS4502_Final_Project/blob/e888e14d74765c3ac4e412222a3930d4ad518ced/Milestones/01_CrimeAndDemographicsInTheMileHighCity_Part4.pdf
