@@ -1,7 +1,7 @@
-Project Title: Crime and Demographics in the Mile High City
-Team Members: Naureen Bharwani, Sean Mulligan, Cody Thornton
+## Project Title: Crime and Demographics in the Mile High City
+## Team Members: Naureen Bharwani, Sean Mulligan, Cody Thornton
 
-Project Description:
+## Project Description:
 
 We sought to study correlations between violent crime and the demographic characteristics of Denver, CO. Our initial literature survey suggested that, in general, places with
 higher levels of violent crime have poorer health outcomes, higher levels of poverty, lower rates of higher educational attainment, and more racial diversity. Based on this 
