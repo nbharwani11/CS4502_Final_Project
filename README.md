@@ -1,4 +1,4 @@
-## Project Title: Crime and Demographics in the Mile High City
+# Crime and Demographics in the Mile High City
 ## Team Members: Naureen Bharwani, Sean Mulligan, Cody Thornton
 
 ## Project Description:
